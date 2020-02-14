@@ -12,6 +12,8 @@ namespace LoggingKata
 
         static void Main(string[] args)
         {
+
+
             // TODO:  Find the two Taco Bells in Alabama that are the furthest from one another.
             // HINT:  You'll need two nested forloops ---------------------------
 
